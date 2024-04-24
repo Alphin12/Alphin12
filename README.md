@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-
+- I love to connect with people and I'm really focused on improving myself in all domains.
 - 🔭 I’m currently working on improving my dApp development skills
 - 🌱 I’m currently learning Blockchain and full stack development.
 - 👯 I’m looking to collaborate on any project.
